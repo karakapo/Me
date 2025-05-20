@@ -2,7 +2,8 @@
 ## A passionate AI developer and Data Science learner
 <br><br>🌱 Currently exploring Machine Learning,Deep Learnning, LLMs,<br> RAG pipelines, LangChain, LangGraph and AI Agents. <br>Focused on building AI-driven architectures, mastering backend system design with Python, <br>and developing AI-powered SaaS & mobile products as a solo founder.<br><br>
 
-## 👻 About Me 
+## 👾 About Me
+
 name = "Ramazan Erduran"
 located_in = "Turkey"
 current_field = "Data & Analytics"

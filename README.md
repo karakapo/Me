@@ -5,7 +5,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafakaraa) [📧](mailto:mmustafa.kara@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafakaraa) [![Email](https://img.shields.io/badge/Email-mm.kara%40outlook.com-blue?style=for-the-badge&logo=gmail)](mailto:mmustafa.kara@outlook.com)
+
 
 
 # 💻 Tech Stack:

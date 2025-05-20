@@ -2,7 +2,40 @@
 ## A passionate AI developer and Data Science learner
 <br><br>🌱 Currently exploring Machine Learning,Deep Learnning, LLMs,<br> RAG pipelines, LangChain, LangGraph and AI Agents. <br>Focused on building AI-driven architectures, mastering backend system design with Python, <br>and developing AI-powered SaaS & mobile products as a solo founder.<br><br>
 
+## 👻 About Me 
+name = "Ramazan Erduran"
+located_in = "Turkey"
+current_field = "Data & Analytics"
 
+education = {
+    "University": "Hacettepe University",
+    "Department": "Statistics",
+    "GPA": 3.12
+}
+
+fields_of_interests = [
+    "Statistics",
+    "Machine Learning",
+    "Neural Networks",
+    "Data Visualization",
+    "Insight Consulting"
+]
+
+technical_background = [
+    "Full Time - Business Intelligence Consultant",
+    "Full Time - Data Scientist",
+    "Intern - Data Science and Machine Learning"
+]
+
+currently_learning = ["Qlik CLI", "Price Action"]
+
+hobbies = [
+    "Movie",
+    "Theatre",
+    "Guitar",
+    "Comedy",
+    "Boxing"
+]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mustafakaraa)[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]()[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mmustafa.kara@outlook.com)

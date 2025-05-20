@@ -1,5 +1,5 @@
 
-## A passionate AI developer and Data Science learner
+## A Passionate AI Developer and Data Science Learner
 <br><br>🌱 Currently exploring Machine Learning,Deep Learnning, LLMs,<br> RAG pipelines, LangChain, LangGraph and AI Agents. <br>Focused on building AI-driven architectures, mastering backend system design with Python, <br>and developing AI-powered SaaS & mobile products as a solo founder.<br><br>
 
 ## 👻 About Me 

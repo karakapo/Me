@@ -39,6 +39,8 @@ hobbies = [
 ```
 
 <div algin="center">
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mustafakaraa)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)  
@@ -52,5 +54,7 @@ hobbies = [
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karakapo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
  </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

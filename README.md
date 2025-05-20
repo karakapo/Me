@@ -38,7 +38,7 @@ hobbies = [
 ]
 ```
 
-<div algin="center">
+<div align="center">
 
 
 ## 🌐 Socials:

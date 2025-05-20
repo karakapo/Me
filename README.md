@@ -2,40 +2,35 @@
 ## A passionate AI developer and Data Science learner
 <br><br>🌱 Currently exploring Machine Learning,Deep Learnning, LLMs,<br> RAG pipelines, LangChain, LangGraph and AI Agents. <br>Focused on building AI-driven architectures, mastering backend system design with Python, <br>and developing AI-powered SaaS & mobile products as a solo founder.<br><br>
 
-```python
 ## 👻 About Me 
-name = "Ramazan Erduran"
+```python
+name = "Mustafa Kara"
 located_in = "Turkey"
-current_field = "Data & Analytics"
+current_field = "Data & AI"
 
 education = {
     "University": "Hacettepe University",
     "Department": "Statistics",
-    "GPA": 3.12
+    "GPA": 3.51
 }
 
-fields_of_interests = [
-    "Statistics",
-    "Machine Learning",
-    "Neural Networks",
-    "Data Visualization",
-    "Insight Consulting"
+fields_of_interests = [  
+    "Machine Learning",  
+    "Neural Networks",  
+    "Data Visualization",  
+    "Agentic AI",
+    "Gen AI",
+    "Web Development"     
 ]
 
-technical_background = [
-    "Full Time - Business Intelligence Consultant",
-    "Full Time - Data Scientist",
-    "Intern - Data Science and Machine Learning"
-]
 
-currently_learning = ["Qlik CLI", "Price Action"]
+currently_learning = ["FastApi", "React","Java Script"]
 
 hobbies = [
-    "Movie",
-    "Theatre",
-    "Guitar",
-    "Comedy",
-    "Boxing"
+    "Cinema",
+    "Books",
+    "Instrument",
+    "Fountain Pen - Notebooks"
 ]
 ```
 ## 🌐 Socials:

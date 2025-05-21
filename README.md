@@ -34,12 +34,12 @@ fields_of_interests = [
 currently_learning = [
     "FastApi",
     "React",
-    "Java Script"
+    "JavaScript"
 ]
 
 hobbies = [
     "Cinema",
-    "Books",
+    "Triathlon",
     "Instrument",
     "Fountain Pen - Notebooks"
 ]

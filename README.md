@@ -1,13 +1,12 @@
-
 ## 💫 A Passionate AI Developer and Data Science Learner
 
 👨‍💻 Currently exploring:
 
-- Machine Learning, Deep Learning  
-- LLMs, RAG pipelines  
-- LangChain, LangGraph, and AI Agents  
-- Focused on building AI-driven architectures  
-- Developing AI-powered SaaS & mobile products as a solo founder
+- 🤖 Machine Learning, Deep Learning  
+- 🧠 LLMs, RAG pipelines  
+- 🔗 LangChain, LangGraph, and AI Agents  
+- 🏗️ Building AI-driven architectures  
+- 🚀 Developing AI-powered SaaS & mobile products as a solo founder  
 
 
 ## 👻 About Me 

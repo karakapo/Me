@@ -1,4 +1,4 @@
-## 💫 A Passionate Data Science and AI Developer Learner
+## 💫 A Passionate Learner in AI Development and Data Science
 
 👨‍💻 Currently exploring:
 

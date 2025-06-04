@@ -23,25 +23,25 @@ education = {
 
 fields_of_interests = [  
     "Machine Learning",  
-    "Neural Networks",  
-    "Data Visualization",  
+    "Neural Networks",    
     "Agentic AI",
     "Gen AI",
-    "Web Development"     
+    "Web Development"  
 ]
 
 
 currently_learning = [
     "FastApi",
-    "React",
-    "JavaScript"
+    "JavaScript",
+    "React"
+    
 ]
 
 hobbies = [
     "Cinema",
     "Triathlon",
     "Instrument",
-    "Fountain Pen - Notebooks"
+    "Fountain Pen"
 ]
 ```
 

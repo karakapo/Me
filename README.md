@@ -21,28 +21,28 @@ education = {
     "GPA": 3.51
 }
 
-fields_of_interests = [  
+fields_of_interests = {  
     "Machine Learning",  
     "Neural Networks",    
     "Agentic AI",
     "Gen AI",
     "Web Development"  
-]
+}
 
 
-currently_learning = [
+currently_learning = {
     "FastApi",
     "JavaScript",
     "React"
     
-]
+}
 
-hobbies = [
+hobbies = {
     "Cinema",
     "Triathlon",
     "Instrument",
     "Fountain Pen"
-]
+}
 ```
 
 <div align="center">
